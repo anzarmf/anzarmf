@@ -1,8 +1,10 @@
 <div align="center">
 
-# Hi, I'm anzarmf 👋
+# Hi, I'm Anzar Mifta 👋
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=7C3AED&center=true&vCenter=true&width=600&lines=Web+%C2%B7+AI+%C2%B7+Automation+Consultant;I+build+platforms+that+run+themselves;Currently+building+NotchKu)](https://git.io/typing-svg)
+
+**Web · AI · Automation Consultant — I build platforms that run themselves. 🇮🇩**
 
 </div>
 
@@ -27,7 +29,7 @@ A small interactive notch at the top of your screen: music, calendar, todo, Pomo
 
 > Your data stays on your PC. No account, no tracking.
 
-**[⬇️ Download NotchKu for Windows (.exe)](https://github.com/anzarmf/notchku/releases/latest/download/NotchKu_0.1.0_x64-setup.exe)** — free, no account needed.
+**[⬇️ Download NotchKu for Windows (.exe)](https://github.com/anzarmf/notchku/releases/latest/download/NotchKu_0.1.1_x64-setup.exe)** — free, no account needed.
 
 ---
 
