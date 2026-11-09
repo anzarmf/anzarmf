@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi, I'm Anzar Mifta 👋
+# Hi, I'm Anzarmf 👋
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=7C3AED&center=true&vCenter=true&width=600&lines=Web+%C2%B7+AI+%C2%B7+Automation+Consultant;I+build+platforms+that+run+themselves;Currently+building+NotchKu)](https://git.io/typing-svg)
 
