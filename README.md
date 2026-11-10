@@ -29,7 +29,7 @@ A small interactive notch at the top of your screen: music, calendar, todo, Pomo
 
 > Your data stays on your PC. No account, no tracking.
 
-**[⬇️ Download NotchKu for Windows (.exe)](https://github.com/anzarmf/notchku/releases/latest/download/NotchKu_0.1.2_x64-setup.exe)** — free, no account needed.
+**[⬇️ Download NotchKu for Windows (.exe)](https://github.com/anzarmf/notchku/releases/latest/download/NotchKu_0.2.0_x64-setup.exe)** — free, no account needed.
 
 ---
 
